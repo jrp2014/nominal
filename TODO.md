@@ -88,3 +88,5 @@ TODO
  [orbits]: http://schmidt.nuigalway.ie/goetz/talk/semigp06.pdf
 
 * Add harness, like the (non-generic) one from "A Haskell Nominal Toolkit" https://perso.crans.org/calves/hnt/ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.706.2844&rep=rep1&type=pdf
+
+* Compare performance / API with http://hackage.haskell.org/package/nominal-0.1.0.0/docs/Nominal.html
